@@ -13,9 +13,14 @@ import org.mule.runtime.extension.api.annotation.param.Parameter;
 public class FirebaseConfiguration {
 
   @Parameter
-  private String configId;
+  private String path;
+  @Parameter
+  private String url;
 
-  public String getConfigId(){
-    return configId;
+  public String getpath(){
+    return path;
   }
+  public String geturl(){
+	    return url;
+	  }
 }

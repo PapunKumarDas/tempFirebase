@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+    <libraryInfo home="D:\AnypointStudio\plugins\org.mule.tooling.jdk.win32.x86_64_1.1.4" version="11.0.15"/>
+    <libraryInfo home="D:\AnypointStudio\plugins\org.mule.tooling.jdk.v8.win32.x86_64_1.1.4" version="1.8.0_332">
+        <bootpath>
+            <entry path="D:\AnypointStudio\plugins\org.mule.tooling.jdk.v8.win32.x86_64_1.1.4\jre\lib\resources.jar"/>
+            <entry path="D:\AnypointStudio\plugins\org.mule.tooling.jdk.v8.win32.x86_64_1.1.4\jre\lib\rt.jar"/>
+            <entry path="D:\AnypointStudio\plugins\org.mule.tooling.jdk.v8.win32.x86_64_1.1.4\jre\lib\sunrsasign.jar"/>
+            <entry path="D:\AnypointStudio\plugins\org.mule.tooling.jdk.v8.win32.x86_64_1.1.4\jre\lib\jsse.jar"/>
+            <entry path="D:\AnypointStudio\plugins\org.mule.tooling.jdk.v8.win32.x86_64_1.1.4\jre\lib\jce.jar"/>
+            <entry path="D:\AnypointStudio\plugins\org.mule.tooling.jdk.v8.win32.x86_64_1.1.4\jre\lib\charsets.jar"/>
+            <entry path="D:\AnypointStudio\plugins\org.mule.tooling.jdk.v8.win32.x86_64_1.1.4\jre\lib\jfr.jar"/>
+            <entry path="D:\AnypointStudio\plugins\org.mule.tooling.jdk.v8.win32.x86_64_1.1.4\jre\classes"/>
+        </bootpath>
+        <extensionDirs>
+            <entry path="D:\AnypointStudio\plugins\org.mule.tooling.jdk.v8.win32.x86_64_1.1.4\jre\lib\ext"/>
+            <entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+        </extensionDirs>
+        <endorsedDirs>
+            <entry path="D:\AnypointStudio\plugins\org.mule.tooling.jdk.v8.win32.x86_64_1.1.4\jre\lib\endorsed"/>
+        </endorsedDirs>
+    </libraryInfo>
+    <libraryInfo home="D:\AnypointStudio\plugins\org.mule.tooling.jdk.v8.win32.x86_64_1.1.4\" version="1.8.0_332">
+        <bootpath>
+            <entry path="D:\AnypointStudio\plugins\org.mule.tooling.jdk.v8.win32.x86_64_1.1.4\jre\lib\resources.jar"/>
+            <entry path="D:\AnypointStudio\plugins\org.mule.tooling.jdk.v8.win32.x86_64_1.1.4\jre\lib\rt.jar"/>
+            <entry path="D:\AnypointStudio\plugins\org.mule.tooling.jdk.v8.win32.x86_64_1.1.4\jre\lib\sunrsasign.jar"/>
+            <entry path="D:\AnypointStudio\plugins\org.mule.tooling.jdk.v8.win32.x86_64_1.1.4\jre\lib\jsse.jar"/>
+            <entry path="D:\AnypointStudio\plugins\org.mule.tooling.jdk.v8.win32.x86_64_1.1.4\jre\lib\jce.jar"/>
+            <entry path="D:\AnypointStudio\plugins\org.mule.tooling.jdk.v8.win32.x86_64_1.1.4\jre\lib\charsets.jar"/>
+            <entry path="D:\AnypointStudio\plugins\org.mule.tooling.jdk.v8.win32.x86_64_1.1.4\jre\lib\jfr.jar"/>
+            <entry path="D:\AnypointStudio\plugins\org.mule.tooling.jdk.v8.win32.x86_64_1.1.4\jre\classes"/>
+        </bootpath>
+        <extensionDirs>
+            <entry path="D:\AnypointStudio\plugins\org.mule.tooling.jdk.v8.win32.x86_64_1.1.4\jre\lib\ext"/>
+            <entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+        </extensionDirs>
+        <endorsedDirs>
+            <entry path="D:\AnypointStudio\plugins\org.mule.tooling.jdk.v8.win32.x86_64_1.1.4\jre\lib\endorsed"/>
+        </endorsedDirs>
+    </libraryInfo>
+</libraryInfos>
